@@ -1,6 +1,5 @@
 # Hello, I'm Lisset 👋 
-![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile) 
-Always learning, always improving
+![Banner](https://github.com/LissetGR/tu-repositorio/blob/main/console.log.gif) 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LissetGR&style=for-the-badge&color=2E8B57&label=Profile%20Views)
 ## 📋 About Me 
