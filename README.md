@@ -3,7 +3,7 @@
 Always learning, always improving
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LissetGR&style=for-the-badge&color=2E8B57&label=Profile%20Views)
-## 📋 About Me ![About Me GIF](https://media.giphy.com/media/3o6Zt9DN9btKjz4Tw4/giphy.gif)
+## 📋 About Me 
 I’m a passionate Computer Science Engineer with a strong background in both frontend and backend development. I specialize in creating scalable, high-performance web applications, leveraging Angular for dynamic and responsive front-end experiences, and Laravel and Django for building robust, efficient back-end systems. I thrive on solving complex problems and turning innovative ideas into real-world solutions that drive value and enhance user experiences. Constantly learning and evolving with the latest technologies, I’m always eager to take on new challenges and contribute to impactful projects.
 
 ## 🚀 Languages and Tools
@@ -26,7 +26,6 @@ I’m a passionate Computer Science Engineer with a strong background in both fr
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LissetGR&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LissetGR&layout=compact&theme=radical)
-
 
 ## 📫 How to Reach Me
 - 📧 Email: [lissgr02@gmail.com](mailto:lissgr02@gmail.com)
