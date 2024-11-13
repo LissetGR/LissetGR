@@ -1,4 +1,4 @@
-# Hello, I'm Lisset 👋
+# Hello, I'm Lisset 👋 ![Welcome](https://media.giphy.com/media/4pKj4yOwYwqEg/giphy.gif)  
 
 ![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile) 
 Always learning, always improving
@@ -17,7 +17,7 @@ I’m a passionate Computer Science Engineer with a strong background in both fr
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
 ## 🛠 Design Tools 
 ![Canva](https://img.shields.io/badge/Design%20Tool-Canva-FFB0C0?style=flat&logo=canva&logoColor=white&labelColor=00C4CC)
