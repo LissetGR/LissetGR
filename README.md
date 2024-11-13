@@ -1,6 +1,7 @@
 # Hello, I'm Lisset 👋
 
-![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile) <!-- You can customize this banner image -->
+![Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile) 
+Always learning, always improving
 
 ## 📋 About Me
 I’m a Computer Science Engineer with experience in both frontend and backend development. I specialize in building scalable web applications using Angular for the frontend and Laravel and Django for the backend. I enjoy solving complex problems and developing efficient, high-performance systems that deliver real value. 
@@ -16,10 +17,8 @@ I’m a Computer Science Engineer with experience in both frontend and backend d
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-## 🌐 Contributions
-![Contributions](https://github-readme-stats.vercel.app/api?username=LissetGR&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=radical)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LissetGR&theme=radical)
-![Contributions](https://github-readme-stats.vercel.app/api/top-langs/?username=LissetGR&theme=radical&langs_count=5)
+## 🛠 Design Tools 
+![Canva](https://img.shields.io/badge/Design%20Tool-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LissetGR&show_icons=true&theme=radical)
