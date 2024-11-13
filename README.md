@@ -1,5 +1,5 @@
 # Hello, I'm Lisset 👋 
-![Banner](https://raw.githubusercontent.com/LissetGR/LissetGR/98413c2c6f46ab9d50d7fd4d8a5a5361bc063857/BANNER.gif)
+![Banner](https://raw.githubusercontent.com/LissetGR/LissetGR/98413c2c6f46ab9d50d7fd4d8a5a5361bc063857/BANNER2.gif)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LissetGR&style=for-the-badge&color=2E8B57&label=Profile%20Views)
 ## 📋 About Me 
