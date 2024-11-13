@@ -7,15 +7,15 @@ Always learning, always improving
 I’m a passionate Computer Science Engineer with a strong background in both frontend and backend development. I specialize in creating scalable, high-performance web applications, leveraging Angular for dynamic and responsive front-end experiences, and Laravel and Django for building robust, efficient back-end systems. I thrive on solving complex problems and turning innovative ideas into real-world solutions that drive value and enhance user experiences. Constantly learning and evolving with the latest technologies, I’m always eager to take on new challenges and contribute to impactful projects.
 
 ## 🚀 Languages and Tools
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Laravel](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel_Logo.svg)
+![Django](https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg)
+![Angular](https://upload.wikimedia.org/wikipedia/commons/7/75/Angular_logo.svg)
+![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
+![Git](https://upload.wikimedia.org/wikipedia/commons/2/25/Git-Logo.svg)
+![HTML5](https://upload.wikimedia.org/wikipedia/commons/5/5c/HTML5_logo_and_wordmark.svg)
+![CSS3](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg)
+![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/a/a1/Tailwind_CSS_Logo.svg)
+![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
 
 ## 🛠 Design Tools 
 ![Canva](https://img.shields.io/badge/Design%20Tool-Canva-FFB0C0?style=flat&logo=canva&logoColor=white&labelColor=00C4CC)
