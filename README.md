@@ -22,14 +22,13 @@ I’m a passionate Computer Science Engineer with a strong background in both fr
 
 ## 📊 GitHub Stats
 <p align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; width: 90%; max-width: 1000px; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=LissetGR&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LissetGR&layout=compact&theme=radical" alt="Top Languages" style="width: 48%;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LissetGR&theme=radical" alt="GitHub Contributions" style="width: 48%;"/>
-    <img src="https://komarev.com/ghpvc/?username=LissetGR&style=for-the-badge&color=2E8B57&label=Profile%20Views" alt="Profile Views" style="width: 48%;"/>
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-evenly; width: 90%; max-width: 1000px; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=LissetGR&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 45%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LissetGR&layout=compact&theme=radical" alt="Top Languages" style="width: 45%;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LissetGR&theme=radical" alt="GitHub Contributions" style="width: 45%;"/>
+    <img src="https://komarev.com/ghpvc/?username=LissetGR&style=for-the-badge&color=2E8B57&label=Profile%20Views" alt="Profile Views" style="width: 45%;"/>
   </div>
 </p>
-
 
 ## 📫 How to Reach Me
 - 📧 Email: [lissgr02@gmail.com](mailto:lissgr02@gmail.com)
