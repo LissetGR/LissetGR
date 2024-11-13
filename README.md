@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre] 👋
+# hi, i'm Lisset👋
 
 ![Banner](https://via.placeholder.com/800x200.png?text=Mi+Perfil+de+GitHub) <!-- Puedes personalizar esta imagen como desees -->
 
