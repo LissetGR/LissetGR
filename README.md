@@ -29,6 +29,7 @@ I’m a passionate Computer Science Engineer with a strong background in both fr
 ## 📫 How to Reach Me
 - 📧 Email: [lissgr02@gmail.com](mailto:lissgr02@gmail.com)
 - 💼 LinkedIn: [lisset-gonzalez-847a50237](https://www.linkedin.com/in/lisset-gonzalez-847a50237)
-
-
+- 📸 Instagram: [@lisset_gonzalez_ruisanchez](https://www.instagram.com/lisset_gonzalez_ruisanchez)
+- 🧵 Threads: [@lisset_gonzalez_ruisanchez](https://www.threads.net/@lisset_gonzalez_ruisanchez?invite=1)
+  
 _Thank you for visiting my profile and taking the time to learn more about me!_ 🚀
