@@ -21,8 +21,10 @@ I’m a passionate Computer Science Engineer with a strong background in both fr
 ![Canva](https://img.shields.io/badge/Design%20Tool-Canva-FFB0C0?style=flat&logo=canva&logoColor=white&labelColor=00C4CC)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LissetGR&show_icons=true&theme=radical) ![Top Languages Pie Chart](https://your-pie-chart-image-url-here.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LissetGR&show_icons=true&theme=radical) 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LissetGR&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LissetGR&layout=compact&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=LissetGR&style=for-the-badge&color=2E8B57&label=Profile%20Views)
 
 ## 📫 How to Reach Me
