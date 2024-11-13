@@ -22,8 +22,10 @@ I’m a passionate Computer Science Engineer with a strong background in both fr
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LissetGR&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LissetGR&theme=radical" alt="GitHub Contributions" width="45%" />
+  <div style="display: flex; justify-content: space-between; width: 90%; max-width: 1000px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=LissetGR&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LissetGR&theme=radical" alt="GitHub Contributions" width="45%" />
+  </div>
 </p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LissetGR&layout=compact&theme=radical)
