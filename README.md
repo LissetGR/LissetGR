@@ -21,11 +21,14 @@ I’m a passionate Computer Science Engineer with a strong background in both fr
 ![Canva](https://img.shields.io/badge/Design%20Tool-Canva-FFB0C0?style=flat&logo=canva&logoColor=white&labelColor=00C4CC)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LissetGR&show_icons=true&theme=radical)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LissetGR&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LissetGR&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LissetGR&theme=radical" alt="GitHub Contributions" width="45%" />
+</p>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LissetGR&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=LissetGR)
+![Profile Views](https://komarev.com/ghpvc/?username=LissetGR&style=flat&color=4B9CD3&label=Profile%20Views)
 
 ## 📫 How to Reach Me
 - 📧 Email: [lissgr02@gmail.com](mailto:lissgr02@gmail.com)
