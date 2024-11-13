@@ -18,21 +18,18 @@ I’m a passionate Computer Science Engineer with a strong background in both fr
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ## 🛠 Design Tools 
-![Canva](https://img.shields.io/badge/Design%20Tool-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Design%20Tool-Canva-FFB0C0?style=flat&logo=canva&logoColor=white&labelColor=00C4CC)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LissetGR&show_icons=true&theme=radical)
-
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LissetGR&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LissetGR&layout=compact&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LissetGR)
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LissetGR&theme=radical)
-
 ## 📫 How to Reach Me
 - 📧 Email: [lissgr02@gmail.com](mailto:lissgr02@gmail.com)
 - 💼 LinkedIn: [lisset-gonzalez-847a50237](https://www.linkedin.com/in/lisset-gonzalez-847a50237)
-
 
 
 _Thank you for visiting my profile and taking the time to learn more about me!_ 🚀
