@@ -4,7 +4,7 @@
 Always learning, always improving
 
 ## 📋 About Me
-I’m a Computer Science Engineer with experience in both frontend and backend development. I specialize in building scalable web applications using Angular for the frontend and Laravel and Django for the backend. I enjoy solving complex problems and developing efficient, high-performance systems that deliver real value. 
+I’m a passionate Computer Science Engineer with a strong background in both frontend and backend development. I specialize in creating scalable, high-performance web applications, leveraging Angular for dynamic and responsive front-end experiences, and Laravel and Django for building robust, efficient back-end systems. I thrive on solving complex problems and turning innovative ideas into real-world solutions that drive value and enhance user experiences. Constantly learning and evolving with the latest technologies, I’m always eager to take on new challenges and contribute to impactful projects.
 
 ## 🚀 Languages and Tools
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -22,8 +22,12 @@ I’m a Computer Science Engineer with experience in both frontend and backend d
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LissetGR&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LissetGR&layout=compact&theme=radical)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=LissetGR)
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=LissetGR&theme=radical)
 
 ## 📫 How to Reach Me
 - 📧 Email: [lissgr02@gmail.com](mailto:lissgr02@gmail.com)
